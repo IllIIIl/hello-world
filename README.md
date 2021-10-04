@@ -1,2 +1,2 @@
 # hello-world
-first repo!
+This is my first GitHub repo.  I have been using Git for a while at work (broadly I am a Data Engineer, my current gig is ETL/BI Development) but have decided to start using GitHub as I get more into competitive programming and building my own software.  I am also looking for some cool open source projects to dig into and to which I might contribute!  Thanks for taking the time to read!
